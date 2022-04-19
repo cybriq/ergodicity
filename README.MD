@@ -1,4 +1,4 @@
-# ![ergodicity logo](../ergodicity/media/logo.svg) ergodicity
+# ![ergodicity logo](./media/logo.svg) ergodicity
 
 Hybrid Blockchain for Real Time Collaboration
 
